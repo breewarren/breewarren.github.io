@@ -11,7 +11,7 @@
 body {
   background: #ffffff;
   color: #898989;
-  font-family: 'Poppins', helvetica;
+  font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 300;
   line-height: 20px;
@@ -196,7 +196,7 @@ nav ul li a {
   display: block;
   font-size: 14px;
   color: #999999;
-  font-family: 'Poppins', helvetica;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   line-height: 16px;
   text-transform: uppercase;
