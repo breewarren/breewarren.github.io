@@ -1,3 +1,4 @@
 to do:
 
--change favicon
+- fix spacing above resume
+- fix hover color
