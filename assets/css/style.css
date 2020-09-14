@@ -244,7 +244,7 @@ nav ul li a {
   font-size: 40px;
   font-weight: 700;
   margin-bottom: 10px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   color: #fff;
 }
 
@@ -253,7 +253,7 @@ nav ul li a {
   letter-spacing: 3px;
   margin-top: 0;
   margin-bottom: 30px;
-  text-transform: capitalize;
+  text-transform: lowercase;
   color: #fff;
   font-weight: 500;
 }
