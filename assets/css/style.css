@@ -51,7 +51,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  color: #ee959e;
   text-decoration: underline;
 }
 
@@ -77,12 +77,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: #ee959e;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #ee959e;
   color: #fff;
 }
 
@@ -151,7 +151,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #ee959e;
 }
 
 .mb-30 {
@@ -339,7 +339,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #ee959e;
 }
 
 #about .div-img-bg .about-img img {
@@ -396,7 +396,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #ee959e;
   line-height: 44px;
 }
 
@@ -422,7 +422,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #ee959e;
 }
 
 .owl-nav {
@@ -460,7 +460,7 @@ nav ul li a {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #ee959e;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -502,7 +502,7 @@ nav ul li a {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: #ee959e;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
@@ -549,7 +549,7 @@ nav ul li a {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #b8a07e !important;
+  background-color: #ee959e !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -651,7 +651,7 @@ nav ul li a {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #ee959e;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -799,7 +799,7 @@ nav ul li a {
 }
 
 .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #ee959e;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -883,7 +883,7 @@ blockquote {
   background-color: #f2f2f2;
   margin: 30px 0;
   border: none;
-  border-left: 4px solid #b8a07e;
+  border-left: 4px solid #ee959e;
 }
 
 /*--------------------------------------------------------------
