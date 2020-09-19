@@ -7,3 +7,12 @@ to do:
 - add medium, linkedin, and github images in contact OR embed posts
 - figure out why mobile menu isnt working
 - fix comfrotaa font
+- color
+- kelly features
+
+-home
+-about
+-resume
+-portfolio
+-blog
+-contact/media
