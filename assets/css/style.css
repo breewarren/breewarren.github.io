@@ -11,7 +11,7 @@
 body {
   background: #ffffff;
   color: #898989;
-  font-family: 'Poppins', helvetica;
+  font-family: 'Comfortaa', helvetica;
   font-size: 15px;
   font-weight: 300;
   line-height: 20px;
@@ -184,7 +184,7 @@ nav {
 nav ul li {
   float: left;
   margin-right: 15px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Comfortaa', sans-serif;
   font-size: 14px;
   margin-left: 40px;
 }
@@ -195,7 +195,7 @@ nav ul li a {
   display: block;
   font-size: 14px;
   color: #999999;
-  font-family: 'Poppins', helvetica;
+  font-family: 'Comfortaa', helvetica;
   font-weight: 500;
   line-height: 16px;
   text-transform: uppercase;
@@ -243,7 +243,7 @@ nav ul li a {
   font-size: 40px;
   font-weight: 700;
   margin-bottom: 10px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   color: #fff;
 }
 
@@ -252,7 +252,7 @@ nav ul li a {
   letter-spacing: 3px;
   margin-top: 0;
   margin-bottom: 30px;
-  text-transform: capitalize;
+  text-transform: lowercase;
   color: #fff;
   font-weight: 500;
 }
