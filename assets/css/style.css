@@ -605,9 +605,9 @@ nav ul li a {
 }
 
 /*--------------------------------------------------------------
-# Journal
+# blog
 --------------------------------------------------------------*/
-#journal, #journal-blog {
+#blog, #blog-blog {
   height: auto;
   width: 100%;
   background: #f7f7f7;
@@ -615,31 +615,31 @@ nav ul li a {
   position: relative;
 }
 
-#journal-blog {
+#blog-blog {
   background: #fff;
   padding-bottom: 30px;
 }
 
-#journal .journal-block {
+#blog .blog-block {
   display: inline-block;
   height: auto;
   width: 100%;
 }
 
-#journal .journal-block .journal-info {
+#blog .blog-block .blog-info {
   position: relative;
 }
 
-.journal-block .journal-info img {
+.blog-block .blog-info img {
   max-width: 100%;
 }
 
-.journal-block .journal-info .journal-txt {
+.blog-block .blog-info .blog-txt {
   padding: 25px 0px;
   position: relative;
 }
 
-.journal-block .journal-info .journal-txt h4 a {
+.blog-block .blog-info .blog-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -649,19 +649,19 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt h4 a:hover {
+.blog-block .blog-info .blog-txt h4 a:hover {
   color: #ee959e;
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt p {
+.blog-block .blog-info .blog-txt p {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
 }
 
 /*--------------------------------------------------------------
-# Journal
+# blog
 --------------------------------------------------------------*/
 #contact {
   height: auto;
@@ -762,7 +762,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 /*  /* Single page */
 /*-----------------------------------------------------------------------------------*/
-#journal-blog {
+#blog-blog {
   padding-top: 140px;
 }
 
@@ -787,7 +787,7 @@ nav ul li a {
   width: 100%;
 }
 
-.journal-txt h4 a {
+.blog-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -797,7 +797,7 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-txt h4 a:hover {
+.blog-txt h4 a:hover {
   color: #ee959e;
   transition: all 0.5s ease-in-out 0s;
 }
@@ -996,8 +996,8 @@ blockquote {
     margin: 20px;
     display: inline-block;
   }
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* blog */
+  #blog .blog-block .blog-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -1066,8 +1066,8 @@ blockquote {
     margin: 20px;
     display: inline-block;
   }
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* blog */
+  #blog .blog-block .blog-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -1136,8 +1136,8 @@ blockquote {
     margin: 10px;
     display: inline-block;
   }
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* blog */
+  #blog .blog-block .blog-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -1205,8 +1205,8 @@ blockquote {
     float: none;
     margin: 20px;
   }
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* blog */
+  #blog .blog-block .blog-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -1274,8 +1274,8 @@ blockquote {
     float: none;
     margin: 20px;
   }
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* blog */
+  #blog .blog-block .blog-info {
     margin-bottom: 30px;
   }
   /* Contact */
