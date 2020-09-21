@@ -605,9 +605,9 @@ nav ul li a {
 }
 
 /*--------------------------------------------------------------
-# blog
+# Journal
 --------------------------------------------------------------*/
-#blog, #blog-blog {
+#journal, #journal-blog {
   height: auto;
   width: 100%;
   background: #f7f7f7;
@@ -615,31 +615,31 @@ nav ul li a {
   position: relative;
 }
 
-#blog-blog {
+#journal-blog {
   background: #fff;
   padding-bottom: 30px;
 }
 
-#blog .blog-block {
+#journal .journal-block {
   display: inline-block;
   height: auto;
   width: 100%;
 }
 
-#blog .blog-block .blog-info {
+#journal .journal-block .journal-info {
   position: relative;
 }
 
-.blog-block .blog-info img {
+.journal-block .journal-info img {
   max-width: 100%;
 }
 
-.blog-block .blog-info .blog-txt {
+.journal-block .journal-info .journal-txt {
   padding: 25px 0px;
   position: relative;
 }
 
-.blog-block .blog-info .blog-txt h4 a {
+.journal-block .journal-info .journal-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -649,19 +649,19 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.blog-block .blog-info .blog-txt h4 a:hover {
+.journal-block .journal-info .journal-txt h4 a:hover {
   color: #ee959e;
   transition: all 0.5s ease-in-out 0s;
 }
 
-.blog-block .blog-info .blog-txt p {
+.journal-block .journal-info .journal-txt p {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
 }
 
 /*--------------------------------------------------------------
-# blog
+# Journal
 --------------------------------------------------------------*/
 #contact {
   height: auto;
@@ -762,7 +762,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 /*  /* Single page */
 /*-----------------------------------------------------------------------------------*/
-#blog-blog {
+#journal-blog {
   padding-top: 140px;
 }
 
@@ -787,7 +787,7 @@ nav ul li a {
   width: 100%;
 }
 
-.blog-txt h4 a {
+.journal-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -797,7 +797,7 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.blog-txt h4 a:hover {
+.journal-txt h4 a:hover {
   color: #ee959e;
   transition: all 0.5s ease-in-out 0s;
 }
@@ -996,8 +996,8 @@ blockquote {
     margin: 20px;
     display: inline-block;
   }
-  /* blog */
-  #blog .blog-block .blog-info {
+  /* journal */
+  #journal .journal-block .journal-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -1066,8 +1066,8 @@ blockquote {
     margin: 20px;
     display: inline-block;
   }
-  /* blog */
-  #blog .blog-block .blog-info {
+  /* journal */
+  #journal .journal-block .journal-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -1136,8 +1136,8 @@ blockquote {
     margin: 10px;
     display: inline-block;
   }
-  /* blog */
-  #blog .blog-block .blog-info {
+  /* journal */
+  #journal .journal-block .journal-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -1205,8 +1205,8 @@ blockquote {
     float: none;
     margin: 20px;
   }
-  /* blog */
-  #blog .blog-block .blog-info {
+  /* journal */
+  #journal .journal-block .journal-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -1274,8 +1274,8 @@ blockquote {
     float: none;
     margin: 20px;
   }
-  /* blog */
-  #blog .blog-block .blog-info {
+  /* journal */
+  #journal .journal-block .journal-info {
     margin-bottom: 30px;
   }
   /* Contact */
