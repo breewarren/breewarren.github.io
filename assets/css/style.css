@@ -86,17 +86,18 @@ p {
 }
 
 .btn {
-  background: #ee959e;
+  background: #333;
   border: medium none;
   border-radius: 0;
   color: #fff;
   font-size: 12px;
   height: 50px;
-  display: flex;
   line-height: 50px;
   padding: 0 30px;
+  display: flex;
   text-transform: uppercase;
 }
+
 
 .btn:hover, .btn:focus {
   color: #fff;
