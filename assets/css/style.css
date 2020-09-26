@@ -92,6 +92,7 @@ p {
   color: #fff;
   font-size: 12px;
   height: 50px;
+  text-align: flex;
   line-height: 50px;
   padding: 0 30px;
   text-transform: uppercase;
