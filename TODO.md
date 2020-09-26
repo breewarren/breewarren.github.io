@@ -1,8 +1,9 @@
 to do:
 
 - fix spacing above resume
-- media section?
 - font for body
+- bullet points
+-vertical line down column
 
 -home
 -about
