@@ -94,7 +94,7 @@ p {
   height: 50px;
   line-height: 50px;
   padding: 0 30px;
-  text-transform: lowercase;
+  text-transform: uppercase;
 }
 
 .btn:hover, .btn:focus {
