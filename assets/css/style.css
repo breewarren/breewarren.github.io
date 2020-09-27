@@ -363,6 +363,16 @@ nav ul li a {
   text-align: left;
 }
 
+.about .content ul li {
+  padding-bottom: 10px;
+}
+
+.about .content ul i {
+  font-size: 20px;
+  padding-right: 2px;
+  color: #34b7a7;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
