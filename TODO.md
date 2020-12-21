@@ -3,7 +3,7 @@ to do:
 - fix spacing above resume
 - font for body
 - bullet points
--vertical line down column
+- vertical line down column
 
 -home
 -about
