@@ -478,7 +478,8 @@ nav ul li a {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #999999;
+  /* color: #999999; */
+  color: #574541
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
