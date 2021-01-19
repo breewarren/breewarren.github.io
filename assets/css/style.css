@@ -478,14 +478,14 @@ nav ul li a {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  /* color: #999999; */
-  color: #574541
+  color: #999999;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #B66B3E;
+  /* color: #B66B3E; */
+  color: #574541
 }
 
 #portfolio #portfolio-flters li:last-child {
