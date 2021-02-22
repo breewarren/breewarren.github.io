@@ -1,1 +1,1 @@
-## Bree's Virtual Portfolio is live! Click [here](https://breewarren.github.io/) to Visit
+## Bree's Virtual Portfolio is Live! [Visit Here](https://breewarren.github.io/)
